@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil shirlanelima 😁
+## Olá! Eu sou a Shirlane Lima 😁
 
  <div>
    <a href="https://github.com/shirlanelima">
