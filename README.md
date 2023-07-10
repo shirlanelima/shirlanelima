@@ -1,5 +1,7 @@
 ## Olá! Eu sou a Shirlane Lima 😁
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shirlane-lima)
+
 ![shirlanelima GitHub stats](https://github-readme-stats.vercel.app/api?username=shirlanelima&show_icons=true&theme=radical)
 
 ## Tecnologias que eu uso no dia a dia
