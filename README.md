@@ -5,7 +5,7 @@
 
 ![shirlanelima GitHub stats](https://github-readme-stats.vercel.app/api?username=shirlanelima&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirlanelima&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirlanelima&layout=compact)
 
 ## Tecnologias que eu uso no dia a dia
 
