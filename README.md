@@ -7,7 +7,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirlanelima&layout=compact)
 
-## Tecnologias que eu uso no dia a dia
+## Tecnologias que eu uso
 
 <div style="display: inline_block"><br/>
 <img align="center" alt="Html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
