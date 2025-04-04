@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Shirlane Lima 😁
 
-<h2 align="left">About Me</h2>
+<h2 align="left">Sobre Me</h2>
 
 ###
 
@@ -8,11 +8,10 @@
 
 ###
 
-<h2 align="left">Stats</h2>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
