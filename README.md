@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">🎓 Estou estudando Análise de Dados, utilizando ferramentas como Excel, Power BI, SQL Server e Python. Meu foco é transformar dados em insights valiosos por meio de dashboards, visualizações e análises que auxiliam na tomada de decisões.</p>
+<p align="left">🎓 Sou estudante de Ciências Contábeis e estou me especializando em Análise de Dados e Business Intelligence. Atualmente, estudo e pratico com ferramentas como Excel, Power BI, SQL Server, PostgreSQL e Python, com foco em transformar dados em insights estratégicos que apoiam a tomada de decisões e agregam valor ao negócio.</p>
 
 ###
 
@@ -23,7 +23,6 @@ Sou apaixonado por transformar dados em decisões. Tenho experiência com:
 - 📈 **Excel**: modelagem de dados, fórmulas avançadas e gráficos  
 - 🗄️ **SQL Server**: consultas T-SQL, extração e manipulação de dados  
 - 🐘 **PostgreSQL**: manipulação de dados relacionais com SQL, criação de queries e análise  
-- 🍃 **MongoDB**: modelagem de dados NoSQL, consultas e integração com aplicações  
 - 🐍 **Python**: análise de dados com Pandas, visualização com Matplotlib/Seaborn  
 
 
